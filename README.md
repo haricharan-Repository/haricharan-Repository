@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=Haricharan%20Boganatham&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SDET%20Architect%20%7C%20Test%20Automation%20%26%20Quality%20Engineering&descAlignY=52&descAlign=50" width="100%"/>
+# Haricharan Boganatham
+### SDET Architect | Test Automation & Quality Engineering
 
 <a href="https://github.com/haricharan-Repository">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=SDET+Architect+%7C+15%2B+Years+Experience;Playwright+%C2%B7+TypeScript+%C2%B7+AI-Powered+Testing;Currently+%40+GE+HealthCare+%E2%80%94+Bengaluru" alt="Typing SVG" />
@@ -136,7 +137,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haricharan-boganatham/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haricharan.boganatham@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
+---
 
 **⭐ From [Haricharan Boganatham](https://github.com/haricharan-Repository) with ❤️**
 
