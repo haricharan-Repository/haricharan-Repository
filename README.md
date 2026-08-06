@@ -1,7 +1,6 @@
 <div align="center">
 
-# Haricharan Boganatham
-### SDET Architect | Test Automation & Quality Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3B5C8F,100:0d1117&height=220&section=header&text=Haricharan%20Boganatham&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=SDET%20Architect%20%7C%20Test%20Automation%20%26%20Quality%20Engineering&descSize=20&descAlignY=54&descAlign=50" width="100%"/>
 
 <a href="https://github.com/haricharan-Repository">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=SDET+Architect+%7C+15%2B+Years+Experience;Playwright+%C2%B7+TypeScript+%C2%B7+AI-Powered+Testing;Currently+%40+GE+HealthCare+%E2%80%94+Bengaluru" alt="Typing SVG" />
