@@ -1,0 +1,12 @@
+<svg width="100%" height="220" viewBox="0 0 1500 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#3b5c8f"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0,0 L1500,0 L1500,150 C1250,210 1250,110 1000,150 C750,210 750,110 500,150 C250,210 250,110 0,150 Z"/>
+  <text x="750" y="95" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle">Haricharan Boganatham</text>
+  <text x="750" y="135" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#dbe7ff" text-anchor="middle">SDET Architect | Test Automation &amp; Quality Engineering</text>
+</svg>
