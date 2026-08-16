@@ -4,7 +4,7 @@
 
 <a href="https://github.com/haricharan-Repository">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=650&lines=SDET+Architect+%7C+15%2B+Years+Experience;Playwright+%C2%B7+TypeScript+%C2%B7+AI-Powered+Testing;Currently+%40+GE+HealthCare+%E2%80%94+Bengaluru" alt="Typing SVG" />
-</a>
+</a>a>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=haricharan-Repository&style=for-the-badge&color=70a5fd)](https://github.com/haricharan-Repository)
 [![GitHub followers](https://img.shields.io/github/followers/haricharan-Repository?style=for-the-badge&color=70a5fd&logo=github&logoColor=white&label=Followers)](https://github.com/haricharan-Repository?tab=followers)
@@ -101,43 +101,46 @@
 ## 🎓 Certifications
 
 - ISTQB Certified Tester Foundation Level (CTFL)
-- ISTQB Advanced Level – Test Automation Engineer (CTAL-TAE)
-- Certified Software Quality Analyst (CSQA) — QAI
-- UFT/QTP Advanced (HPE) — HP0-M102
-- Framework & Ecosystem Certifications (Playwright / Visual AI)
+- - ISTQB Advanced Level – Test Automation Engineer (CTAL-TAE)
+  - - Certified Software Quality Analyst (CSQA) — QAI
+    - - UFT/QTP Advanced (HPE) — HP0-M102
+      - - Framework & Ecosystem Certifications (Playwright / Visual AI)
+       
+        - ---
 
----
+        ## ⭐ Featured Projects
 
-## ⭐ Featured Projects
+        | 🚀 Project | 📝 Description |
+        |---|---|
+        | [**playwright-typescript-test-framework**](https://github.com/haricharan-Repository/playwright-typescript-test-framework) | Modern Playwright + TypeScript test framework: UI, API, DB, visual and accessibility testing with fixture-based Page Objects |
+        | [**PlaySensei**](https://github.com/haricharan-Repository/PlaySensei) | Playwright + TypeScript test framework paired with an adaptive learning platform — lessons, a CLI, and PlaySensei Studio |
+        | [**mobile-appium-typescript-framework**](https://github.com/haricharan-Repository/mobile-appium-typescript-framework) | Appium mobile test automation for Android + iOS, run through @playwright/test fixtures |
+        | [**Self-Healing-DOM-Locator-Engine**](https://github.com/haricharan-Repository/Self-Healing-DOM-Locator-Engine) | Framework-agnostic self-healing DOM locator engine that re-finds broken selectors via fingerprint matching |
+        | [**llm-AI-testcase-creation**](https://github.com/haricharan-Repository/llm-AI-testcase-creation) | Turns plain-English requirements into Gherkin/BDD test cases using a local, open-source LLM via Ollama |
+        | [**test-strategy-builder**](https://github.com/haricharan-Repository/test-strategy-builder) | Generates a full Excel test strategy with 35+ categories of test cases from a requirement |
 
-| 🚀 Project | 📝 Description |
-|---|---|
-| [**Inmarsat**](https://github.com/haricharan-Repository/Inmarsat) | Test automation project |
-| [**TestVagrant**](https://github.com/haricharan-Repository/TestVagrant) | QA/testing focused repository |
-| [**docker-selenium**](https://github.com/haricharan-Repository/docker-selenium) | Docker images for Selenium Grid (Standalone, Hub, Nodes) |
-| [**selenium**](https://github.com/haricharan-Repository/selenium) | Browser automation framework and ecosystem |
+        ---
 
----
+        ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+        <div align="center">
 
-<div align="center">
+        <img src="https://streak-stats.demolab.com/?user=haricharan-Repository&theme=tokyonight&hide_border=true" width="60%" />
 
-<img src="https://streak-stats.demolab.com/?user=haricharan-Repository&theme=tokyonight&hide_border=true" width="60%" />
+        </div>
 
-</div>
+        ---
 
----
+        ## 🤝 Let's Connect!
 
-## 🤝 Let's Connect!
+        **Always open to collaborating on test automation, quality engineering, and AI-driven QA projects.**
 
-**Always open to collaborating on test automation, quality engineering, and AI-driven QA projects.**
+        [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haricharan-boganatham/)
+        [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haricharan.boganatham@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haricharan-boganatham/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haricharan.boganatham@gmail.com)
+        ---
 
----
+        **⭐ From [Haricharan Boganatham](https://github.com/haricharan-Repository) with ❤️**
 
-**⭐ From [Haricharan Boganatham](https://github.com/haricharan-Repository) with ❤️**
-
-</div>
+        </div>
+        
